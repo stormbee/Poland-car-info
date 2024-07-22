@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ### Clone or Download the Repository:
 
 ```bash
-git clone https://github.com/your-username/telegram-vehicle-history-bot.git
+git clone https://github.com/stormbee/Poland-car-info.git
 ```
 
 ### Configure the Bot:
