@@ -44,8 +44,8 @@ git clone https://github.com/stormbee/Poland-car-info.git
 ### Configure the Bot:
 
 Create the `.env` file in a text editor.
-Add `YOUR_BOT_TOKEN` with your actual bot token obtained from BotFather to variable `TOKEN` in `.env`. 
-`TOKEN = "YOUR_BOT_TOKEN"` 
+Add `YOUR_BOT_TOKEN` with your actual bot token obtained from BotFather to variable `TOKEN` in `.env`.  
+`TOKEN = "YOUR_BOT_TOKEN"`  
 Optionally, adjust other settings in the code (e.g., language strings).
 
 ### Run the Bot:
